@@ -9,6 +9,9 @@ module.exports = {
       'dark-grey' : 'hsl(0, 0%, 12%);',
       'off-black' : 'hsl(0, 0%, 8%);'
     },
+    fontFamily: {
+      inter: ['Inter']
+    },
     extend: {},
   },
   plugins: [],
